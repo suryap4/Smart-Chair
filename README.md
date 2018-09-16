@@ -1,2 +1,3 @@
 # Smart-Chair
-This IOT Project gives info about a chair which is connected by sensor, whether it is empty or occupied.
+This IOT Project gives info about availability of a chair connected by a sensor.
+Used SenseHat and Raspberry Pi.
